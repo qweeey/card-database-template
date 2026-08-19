@@ -1,2 +1,708 @@
 name,set,quantity,type,color,altArt,overnumbered,image
 Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
+Death Mark,VEN,1,SIGNATURE SPELL,FURY&CHAOS,false,false,death-mark-ven.avif
+Abandon,UNL,0,,SPELL,false,false,abandon-unl.avif
+Abandoned Hall,UNL,0,BATTLEFIELD,,false,false,abandoned-hall-unl.avif
+Acceptable Losses,OGN,0,SPELL,,false,false,acceptable-losses-ogn.avif
+Adaptatron,OGN,0,UNIT,,false,false,adaptatron-ogn.avif
+Against The Odds,SFD,0,SPELL,,false,false,against-the-odds-sfd.avif
+Ahri Inquisitive,OGN,0,CHAMPION UNIT,,true,false,ahri-inquisitive-ogn-a.avif
+Ahri Inquisitive,OGN,0,CHAMPION UNIT,,false,false,ahri-inquisitive-ogn.avif
+Ahri Inquisitive,VEN,0,CHAMPION UNIT,,false,false,ahri-inquisitive-ven.avif
+Albus Ferros,OGN,0,UNIT,,false,false,albus-ferros-ogn.avif
+Allay Eager Admirer,UNL,0,UNIT,,false,false,allay-eager-admirer-unl.avif
+Altar Of Blood,UNL,0,BATTLEFIELD,,false,false,altar-of-blood-unl.avif
+Altar To Unity,OGN,0,BATTLEFIELD,,false,false,altar-to-unity-ogn.avif
+Amateur Recital,UNL,0,BATTLEFIELD,,false,false,amateur-recital-unl.avif
+Angler Beast,UNL,0,UNIT,,false,false,angler-beast-unl.avif
+Anivia Primal,OGN,0,CHAMPION UNIT,,false,false,anivia-primal-ogn.avif
+Aphelios Exalted,SFD,0,CHAMPION UNIT,,false,false,aphelios-exalted-sfd.avif
+Apprentice Smith,SFD,0,UNIT,,false,false,apprentice-smith-sfd.avif
+Arena Bar,OGN,0,GEAR,,false,false,arena-bar-ogn.avif
+Arena Kingpin,UNL,0,UNIT,,false,false,arena-kingpin-unl.avif
+Arise,SFD,0,SIGNATURE SPELL,,false,false,arise-sfd.avif
+Armed Assailant,SFD,0,UNIT,,false,false,armed-assailant-sfd.avif
+Aspirants Climb,OGN,0,BATTLEFIELD,,false,false,aspirants-climb-ogn.avif
+Atakhan,UNL,0,UNIT,,false,false,atakhan-unl.avif
+Ava Achiever,OGN,0,UNIT,,false,false,ava-achiever-ogn.avif
+Baccai Reaper,VEN,0,UNIT,,false,false,baccai-reaper-ven.avif
+Baccai Sandspinner,VEN,0,UNIT,,false,false,baccai-sandspinner-ven.avif
+Back Alley Bar,OGN,0,BATTLEFIELD,,false,false,back-alley-bar-ogn.avif
+Back Off,UNL,0,SPELL,,false,false,back-off-unl.avif
+Back To Back,OGN,0,SPELL,,false,false,back-to-back-ogn.avif
+Bandle Soldier,UNL,0,UNIT,,false,false,bandle-soldier-unl.avif
+Bandle Tree,OGN,0,BATTLEFIELD,,false,false,bandle-tree-ogn.avif
+Baron Pit,UNL,0,BATTLEFIELD,,false,false,baron-pit-unl.avif
+Battering Ram,SFD,0,UNIT,,false,false,battering-ram-sfd.avif
+Bewitching Spirit,UNL,0,UNIT,,false,false,bewitching-spirit-unl.avif
+Bf Sword,SFD,0,GEAR,,false,false,bf-sword-sfd.avif
+Bilgewater Bully,OGN,0,UNIT,,false,false,bilgewater-bully-ogn.avif
+Black Flame Altar,UNL,0,BATTLEFIELD,,false,false,black-flame-altar-unl.avif
+Black Market Broker,SFD,0,UNIT,,false,false,black-market-broker-sfd.avif
+Black Rose Dignitary,UNL,0,UNIT,,false,false,black-rose-dignitary-unl.avif
+Blade Twirler,VEN,0,UNIT,,false,false,blade-twirler-ven.avif
+Blast Cone,UNL,0,GEAR,,false,false,blast-cone-unl.avif
+Blast Corps Cadet,SFD,0,UNIT,,false,false,blast-corps-cadet-sfd.avif
+Blastcone Fae,OGN,0,UNIT,,false,false,blastcone-fae-ogn.avif
+Blazing Scorcher,OGN,0,UNIT,,false,false,blazing-scorcher-ogn.avif
+Blighted Battleaxe,UNL,0,GEAR,,false,false,blighted-battleaxe-unl.avif
+Blind Fury,OGN,0,SPELL,,false,false,blind-fury-ogn.avif
+Block,OGN,0,SPELL,,false,false,block-ogn.avif
+Blood Money,SFD,0,SPELL,,false,false,blood-money-sfd.avif
+Blood Rose,UNL,0,GEAR,,false,false,blood-rose-unl.avif
+Body Rune,VEN,0,RUNE,,false,false,body-rune-ven.avif
+Bonds Of Strength,SFD,0,,,false,false,bonds-of-strength-sfd.avif
+Bone Skewer,UNL,0,SPELL,,false,false,bone-skewer-unl.avif
+Brazen Buccaneer,OGN,0,UNIT,,false,false,brazen-buccaneer-ogn.avif
+Brittle Steel,VEN,0,SPELL,,false,false,brittle-steel-ven.avif
+Brush,UNL,0,BATTLEFIELD,,false,false,brush-unl.avif
+Bubble Bot,SFD,0,UNIT,,false,false,bubble-bot-sfd.avif
+Buhru Captain,SFD,0,,,false,false,buhru-captain-sfd.avif
+Bullet Time,OGN,0,,,false,false,bullet-time-ogn.avif
+Bushwhack,SFD,0,,,false,false,bushwhack-sfd.avif
+Caitlyn Patrolling,OGN,0,,,false,false,caitlyn-patrolling-ogn.avif
+Call To Battle,UNL,0,,,false,false,call-to-battle-unl.avif
+Call To Glory,OGN,0,,,false,false,call-to-glory-ogn.avif
+Called Shot,SFD,0,,,false,false,called-shot-sfd.avif
+Calm Rune,OGN,0,,,true,false,calm-rune-ogn-a.avif
+Calm Rune,VEN,0,,,false,false,calm-rune-ven.avif
+Cannon Barrage,OGN,0,,,false,false,cannon-barrage-ogn.avif
+Captain Farron,OGN,0,,,false,false,captain-farron-ogn.avif
+Carnivorous Snapvine,OGN,0,,,false,false,carnivorous-snapvine-ogn.avif
+Carrion Dredger,UNL,0,,,false,false,carrion-dredger-unl.avif
+Catalyst Of Aeons,OGN,0,,,false,false,catalyst-of-aeons-ogn.avif
+Cemetery Attendant,OGN,0,,,false,false,cemetery-attendant-ogn.avif
+Chakram Dancer,UNL,0,,,false,false,chakram-dancer-unl.avif
+Challenge,OGN,0,,,false,false,challenge-ogn.avif
+Chaos Rune,VEN,0,,,false,false,chaos-rune-ven.avif
+Charm,OGN,0,,,false,false,charm-ogn.avif
+Chemtech Enforcer,OGN,0,,,false,false,chemtech-enforcer-ogn.avif
+Cithria Of Cloudfield,OGN,0,,,false,false,cithria-of-cloudfield-ogn.avif
+Clash Of Giants,UNL,0,,,false,false,clash-of-giants-unl.avif
+Cleave,OGN,0,,,false,false,cleave-ogn.avif
+Clockwork Keeper,OGN,0,,,false,false,clockwork-keeper-ogn.avif
+Cloth Armor,SFD,0,,,false,false,cloth-armor-sfd.avif
+Combat Chef,SFD,0,,,false,false,combat-chef-sfd.avif
+Combat Experience,UNL,0,,,false,false,combat-experience-unl.avif
+Concentrate,UNL,0,,,false,false,concentrate-unl.avif
+Confront,OGN,0,,,false,false,confront-ogn.avif
+Consult The Past,OGN,0,,,false,false,consult-the-past-ogn.avif
+Consuming Curse,VEN,0,,,false,false,consuming-curse-ven.avif
+Convergent Mutation,OGN,0,,,false,false,convergent-mutation-ogn.avif
+Crackshot Corsair,OGN,0,,,false,false,crackshot-corsair-ogn.avif
+Crescent Guardian,UNL,0,,,false,false,crescent-guardian-unl.avif
+Crescent Strike,UNL,0,,,false,false,crescent-strike-unl.avif
+Crimson Pigeons,UNL,0,,,false,false,crimson-pigeons-unl.avif
+Crowd Favorite,UNL,0,,,false,false,crowd-favorite-unl.avif
+Cruel Patron,OGN,0,,,false,false,cruel-patron-ogn.avif
+Cull The Weak,OGN,0,,,false,false,cull-the-weak-ogn.avif
+Dangerous Duo,OGN,0,,,false,false,dangerous-duo-ogn.avif
+Daring Poro,OGN,0,,,false,false,daring-poro-ogn.avif
+Darius Hand Of Noxus,OGN,0,,,false,false,darius-hand-of-noxus-ogn.avif
+Darius Trifarian,OGN,0,,,false,false,darius-trifarian-ogn.avif
+Dauntless Vanguard,SFD,0,,,false,false,dauntless-vanguard-sfd.avif
+Deadly Flourish,UNL,0,,,false,false,deadly-flourish-unl.avif
+Death From Below,UNL,0,,,false,false,death-from-below-unl.avif
+Decree Of Rage,VEN,0,,,false,false,decree-of-rage-ven.avif
+Defy,OGN,0,,,false,false,defy-ogn.avif
+Demacian Diplomat,UNL,0,,,false,false,demacian-diplomat-unl.avif
+Deserts Call,SFD,0,,,false,false,deserts-call-sfd.avif
+Detonate,SFD,0,,,false,false,detonate-sfd.avif
+Diana Lunari,UNL,0,,,false,false,diana-lunari-unl.avif
+Disarming Rake,SFD,0,,,false,false,disarming-rake-sfd.avif
+Discipline,OGN,0,,,false,false,discipline-ogn.avif
+Disintegrate,OGN,0,,,false,false,disintegrate-ogn.avif
+Disposal Order,UNL,0,,,false,false,disposal-order-unl.avif
+Divining Shells,UNL,0,,,false,false,divining-shells-unl.avif
+Dorans Blade,SFD,0,,,false,false,dorans-blade-sfd.avif
+Dorans Ring,SFD,0,,,false,false,dorans-ring-sfd.avif
+Dorans Shield,SFD,0,,,false,false,dorans-shield-sfd.avif
+Double Trouble,UNL,0,,,false,false,double-trouble-unl.avif
+Downstage Dramatics,UNL,0,,,false,false,downstage-dramatics-unl.avif
+Dr Mundo Expert,OGN,0,,,false,false,dr-mundo-expert-ogn.avif
+Drag Under,SFD,0,,,false,false,drag-under-sfd.avif
+Dragons Rage,OGN,0,,,false,false,dragons-rage-ogn.avif
+Dragonsoul Sage,UNL,0,,,false,false,dragonsoul-sage-unl.avif
+Dramatic Visionary,UNL,0,,,false,false,dramatic-visionary-unl.avif
+Dune Drake,OGN,0,,,false,false,dune-drake-ogn.avif
+Dune Surfer,VEN,0,,,false,false,dune-surfer-ven.avif
+Dusk Rose Lab,UNL,0,,,false,false,dusk-rose-lab-unl.avif
+Eager Apprentice,OGN,0,,,false,false,eager-apprentice-ogn.avif
+Eclipse Dragon,VEN,0,,,false,false,eclipse-dragon-ven.avif
+Eclipse Herald,OGN,0,,,false,false,eclipse-herald-ogn.avif
+Eclipse,UNL,0,,,false,false,eclipse-unl.avif
+Ekko Recurrent,OGN,0,,,false,false,ekko-recurrent-ogn.avif
+Ember Monk,OGN,0,,,false,false,ember-monk-ogn.avif
+Eminent Benefactor,SFD,0,,,false,false,eminent-benefactor-sfd.avif
+Emperors Divide,SFD,0,,,false,false,emperors-divide-sfd.avif
+En Garde,OGN,0,,,false,false,en-garde-ogn.avif
+Energy Conduit,OGN,0,,,false,false,energy-conduit-ogn.avif
+Enthralling Protector,UNL,0,,,false,false,enthralling-protector-unl.avif
+Enthusiastic Promoter,UNL,0,,,false,false,enthusiastic-promoter-unl.avif
+Evelynn Entrancing,UNL,0,,,false,false,evelynn-entrancing-unl.avif
+Evershade Stalker,UNL,0,,,false,false,evershade-stalker-unl.avif
+Existential Dread,UNL,0,,,false,false,existential-dread-unl.avif
+Eye Of The Herald,SFD,0,,,false,false,eye-of-the-herald-sfd.avif
+Ezreal Prodigy,VEN,0,,,false,false,ezreal-prodigy-ven.avif
+Facebreaker,OGN,0,,,false,false,facebreaker-ogn.avif
+Factory Recall,SFD,0,,,false,false,factory-recall-sfd.avif
+Fading Memories,OGN,0,,,false,false,fading-memories-ogn.avif
+Fae Porter,SFD,0,,,false,false,fae-porter-sfd.avif
+Faithful Manufactor,OGN,0,,,false,false,faithful-manufactor-ogn.avif
+Falling Comet,OGN,0,,,false,false,falling-comet-ogn.avif
+Fate Weaver,UNL,0,,,false,false,fate-weaver-unl.avif
+Feral Strength,SFD,0,,,false,false,feral-strength-sfd.avif
+Fight Or Flight,OGN,0,,,false,false,fight-or-flight-ogn.avif
+Find Your Center,OGN,0,,,false,false,find-your-center-ogn.avif
+Fiora Grand Duelist,SFD,0,,,false,false,fiora-grand-duelist-sfd.avif
+Fiora Peerless,SFD,0,,,false,false,fiora-peerless-sfd.avif
+Fiora Victorious,OGN,0,,,false,false,fiora-victorious-ogn.avif
+Fiora Worthy,SFD,0,,,false,false,fiora-worthy-sfd.avif
+First Mate,OGN,0,,,false,false,first-mate-ogn.avif
+Flame Chompers,OGN,0,,,false,false,flame-chompers-ogn.avif
+Flash,OGN,0,,,false,false,flash-ogn.avif
+Flurry Of Blades,OGN,0,,,false,false,flurry-of-blades-ogn.avif
+Flurry Of Feathers,UNL,0,,,false,false,flurry-of-feathers-unl.avif
+Forbidding Waste,UNL,0,,,false,false,forbidding-waste-unl.avif
+Forecaster,SFD,0,,,false,false,forecaster-sfd.avif
+Forge Of The Fluft,SFD,0,,,false,false,forge-of-the-fluft-sfd.avif
+Forge Of The Future,OGN,0,,,false,false,forge-of-the-future-ogn.avif
+Forgotten Library,UNL,0,,,false,false,forgotten-library-unl.avif
+Forgotten Monument,SFD,0,,,false,false,forgotten-monument-sfd.avif
+Forsaken Baccai,VEN,0,,,false,false,forsaken-baccai-ven.avif
+Fortified Position,OGN,0,,,false,false,fortified-position-ogn.avif
+Fresh Beans,UNL,0,,,false,false,fresh-beans-unl.avif
+Friendship,UNL,0,,,false,false,friendship-unl.avif
+Frigid Jewel,UNL,0,,,false,false,frigid-jewel-unl.avif
+Frigid Touch,SFD,0,,,false,false,frigid-touch-sfd.avif
+Frisky Hunter,UNL,0,,,false,false,frisky-hunter-unl.avif
+Frostcoat Cub,SFD,0,,,false,false,frostcoat-cub-sfd.avif
+Frozen Fortress,UNL,0,,,false,false,frozen-fortress-unl.avif
+Fury Rune,VEN,0,,,false,false,fury-rune-ven.avif
+Galio Indefatigable,UNL,0,,,false,false,galio-indefatigable-unl.avif
+Garbage Grabber,OGN,0,,,false,false,garbage-grabber-ogn.avif
+Gardens Of Becoming,UNL,0,,,false,false,gardens-of-becoming-unl.avif
+Gemcraft Seer,OGN,0,,,false,false,gemcraft-seer-ogn.avif
+Gemhand Hunter,UNL,0,,,false,false,gemhand-hunter-unl.avif
+Gentle Gemdragon,UNL,0,,,false,false,gentle-gemdragon-unl.avif
+Get Excited,OGN,0,,,false,false,get-excited-ogn.avif
+Grand Strategem,OGN,0,,,false,false,grand-strategem-ogn.avif
+Grim Apothecary,UNL,0,,,false,false,grim-apothecary-unl.avif
+Grim Resolve,UNL,0,,,false,false,grim-resolve-unl.avif
+Grove Of The God Willow,OGN,0,,,false,false,grove-of-the-god-willow-ogn.avif
+Guardian Angel,SFD,0,,,false,false,guardian-angel-sfd.avif
+Guards,SFD,0,,,false,false,guards-sfd.avif
+Guerilla Warfare,OGN,0,,,false,false,guerilla-warfare-ogn.avif
+Gust,OGN,0,,,false,false,gust-ogn.avif
+Gustwalker,UNL,0,,,false,false,gustwalker-unl.avif
+Hallowed Tomb,OGN,0,,,false,false,hallowed-tomb-ogn.avif
+Heedless Resurrection,UNL,0,,,false,false,heedless-resurrection-unl.avif
+Heimerdinger Inventor,OGN,0,,,false,false,heimerdinger-inventor-ogn.avif
+Herald Of Scales,OGN,0,,,false,false,herald-of-scales-ogn.avif
+Herald Of Spring,UNL,0,,,false,false,herald-of-spring-unl.avif
+Heroic Charge,UNL,0,,,false,false,heroic-charge-unl.avif
+Hexdrinker,SFD,0,,,false,false,hexdrinker-sfd.avif
+Hextech Ray,OGN,0,,,false,false,hextech-ray-ogn.avif
+Hidden Blade,OGN,0,,,false,false,hidden-blade-ogn.avif
+Honest Broker,SFD,0,,,false,false,honest-broker-sfd.avif
+Honeyfruit,UNL,0,,,false,false,honeyfruit-unl.avif
+Hunters Machete,UNL,0,,,false,false,hunters-machete-unl.avif
+Hwei Brooding Painter,UNL,0,,,false,false,hwei-brooding-painter-unl.avif
+Icevale Archer,UNL,0,,,false,false,icevale-archer-unl.avif
+Imperial Decree,OGN,0,,,false,false,imperial-decree-ogn.avif
+Inferna,UNL,0,,,false,false,inferna-unl.avif
+Irelia Blade Dancer,SFD,0,,,false,false,irelia-blade-dancer-sfd.avif
+Iron Ballista,OGN,0,,,false,false,iron-ballista-ogn.avif
+Isolate,UNL,0,,,false,false,isolate-unl.avif
+Ivern Green Father,UNL,0,,,false,false,ivern-green-father-unl.avif
+Ivern Nurturer,UNL,0,,,false,false,ivern-nurturer-unl.avif
+Jaull Fish,SFD,0,,,false,false,jaull-fish-sfd.avif
+Jayce Man Of Progress,SFD,0,,,false,false,jayce-man-of-progress-sfd.avif
+Jeweled Colossus,OGN,0,,,false,false,jeweled-colossus-ogn.avif
+Jhin Murderous Artist,UNL,0,,,false,false,jhin-murderous-artist-unl.avif
+Jinx Demolitionist,OGN,0,,,false,false,jinx-demolitionist-ogn.avif
+Jinx Loose Cannon,OGN,0,,,false,false,jinx-loose-cannon-ogn.avif
+Kai'sa Evolutionary,OGN,0,,,false,false,kaisa-evolutionary-ogn.avif
+Kai'sa Survivor,VEN,0,,,false,false,kaisa-survivor-ven.avif
+Karma Channeler,OGN,0,,,false,false,karma-channeler-ogn.avif
+Karthus Eternal,OGN,0,,,false,false,karthus-eternal-ogn.avif
+Khazix Mutating Horror,UNL,0,,,false,false,khazix-mutating-horror-unl.avif
+Khazix Voidreaver,UNL,0,,,false,false,khazix-voidreaver-unl.avif
+Kinkou Initiate,UNL,0,,,false,false,kinkou-initiate-unl.avif
+Kinkou Monk,OGN,0,,,false,false,kinkou-monk-ogn.avif
+Kraken Hunter,OGN,0,,,false,false,kraken-hunter-ogn.avif
+Laurent Bladekeeper,SFD,0,,,false,false,laurent-bladekeeper-sfd.avif
+Laurent Duelist,SFD,0,,,false,false,laurent-duelist-sfd.avif
+Leblanc Deceiver,UNL,0,,,false,false,leblanc-deceiver-unl.avif
+Leblanc Everywhere At Once,UNL,0,,,true,false,leblanc-everywhere-at-once-unl-a.avif
+Leblanc Fragmented,UNL,0,,,false,false,leblanc-fragmented-unl.avif
+Lecturing Yordle,OGN,0,,,false,false,lecturing-yordle-ogn.avif
+Lee Sin Ascetic,OGN,0,,,true,false,lee-sin-ascetic-ogn-a.avif
+Lee Sin Ascetic,OGN,0,,,false,false,lee-sin-ascetic-ogn.avif
+Lee Sin Blind Monk,OGN,0,,,false,false,lee-sin-blind-monk-ogn.avif
+Lee Sin Centered,OGN,0,,,false,false,lee-sin-centered-ogn.avif
+Legion Rearguard,OGN,0,,,false,false,legion-rearguard-ogn.avif
+Leona Determined,OGN,0,,,false,false,leona-determined-ogn.avif
+Lillia Bashful Bloom,UNL,0,,,false,false,lillia-bashful-bloom-unl.avif
+Lillia Fae Fawn,UNL,0,,,false,false,lillia-fae-fawn-unl.avif
+Lillia Protector Of Dreams,UNL,0,,,false,false,lillia-protector-of-dreams-unl.avif
+Long Sword,SFD,0,,,false,false,long-sword-sfd.avif
+Lord Broadmane,UNL,0,,,false,false,lord-broadmane-unl.avif
+Lotus Trap,UNL,0,,,false,false,lotus-trap-unl.avif
+Loyal Poro,UNL,0,,,false,false,loyal-poro-unl.avif
+Loyal Pup,SFD,0,,,false,false,loyal-pup-sfd.avif
+Lucian Merciless,SFD,0,,,false,false,lucian-merciless-sfd.avif
+Lunar Boon,UNL,0,,,false,false,lunar-boon-unl.avif
+Lux Crownguard,VEN,0,,,false,false,lux-crownguard-ven.avif
+Maddened Marauder,OGN,0,,,false,false,maddened-marauder-ogn.avif
+Maduli The Gatekeeper,UNL,0,,,false,false,maduli-the-gatekeeper-unl.avif
+Mageseeker Investigator,UNL,0,,,false,false,mageseeker-investigator-unl.avif
+Magma Wurm,OGN,0,,,false,false,magma-wurm-ogn.avif
+Malzahar Fanatic,OGN,0,,,false,false,malzahar-fanatic-ogn.avif
+Mask Of Foresight,OGN,0,,,false,false,mask-of-foresight-ogn.avif
+Master Bingwen,SFD,0,,,false,false,master-bingwen-sfd.avif
+Master Yi Tempered,UNL,0,,,false,false,master-yi-tempered-unl.avif
+Master Yi Wuju Master,UNL,0,,,false,false,master-yi-wuju-master-unl.avif
+Meditation,OGN,0,,,false,false,meditation-ogn.avif
+Mega Mech,OGN,0,,,false,false,mega-mech-ogn.avif
+Megatusk,UNL,0,,,false,false,megatusk-unl.avif
+Mind Rune,OGN,0,,,true,false,mind-rune-ogn-a.avif
+Mind Rune,UNL,0,,,true,false,mind-rune-unl-a.avif
+Mind Rune,VEN,0,,,false,false,mind-rune-ven.avif
+Mindsplitter,OGN,0,,,false,false,mindsplitter-ogn.avif
+Minefield,SFD,0,,,false,false,minefield-sfd.avif
+Minotaur Reckoner,SFD,0,,,false,false,minotaur-reckoner-sfd.avif
+Mischievous Marai,UNL,0,,,false,false,mischievous-marai-unl.avif
+Miss Fortune Bounty Hunter,OGN,0,,,false,false,miss-fortune-bounty-hunter-ogn.avif
+Miss Fortune Captain,OGN,0,,,false,false,miss-fortune-captain-ogn.avif
+Mister Root,UNL,0,,,false,false,mister-root-unl.avif
+Mistfall,OGN,0,,,false,false,mistfall-ogn.avif
+Mobilize,OGN,0,,,false,false,mobilize-ogn.avif
+Monastery Of Hirana,OGN,0,,,false,false,monastery-of-hirana-ogn.avif
+Monch,UNL,0,,,false,false,monch-unl.avif
+Monster Harpoon,UNL,0,,,false,false,monster-harpoon-unl.avif
+Moonlight Affliction,UNL,0,,,false,false,moonlight-affliction-unl.avif
+Morbid Return,OGN,0,,,false,false,morbid-return-ogn.avif
+Morgana Vindictive,VEN,0,,,false,false,morgana-vindictive-ven.avif
+Mosstomper,UNL,0,,,false,false,mosstomper-unl.avif
+Mountain Drake,OGN,0,,,false,false,mountain-drake-ogn.avif
+Mushroom Pouch,OGN,0,,,false,false,mushroom-pouch-ogn.avif
+Mutated Mouser,UNL,0,,,false,false,mutated-mouser-unl.avif
+Mystic Poro,OGN,0,,,false,false,mystic-poro-ogn.avif
+Nami Headstrong,UNL,0,,,false,false,nami-headstrong-unl.avif
+Navori Fighting Pit,OGN,0,,,false,false,navori-fighting-pit-ogn.avif
+Navori Scout,SFD,0,,,false,false,navori-scout-sfd.avif
+Nilah Joyful Ascetic,UNL,0,,,false,false,nilah-joyful-ascetic-unl.avif
+Nocturne Horrifying,OGN,0,,,false,false,nocturne-horrifying-ogn.avif
+Noxian Drummer,OGN,0,,,false,false,noxian-drummer-ogn.avif
+Noxian Guillotine,OGN,0,,,false,false,noxian-guillotine-ogn.avif
+Noxus Hopeful,OGN,0,,,false,false,noxus-hopeful-ogn.avif
+Noxus Saboteur,OGN,0,,,false,false,noxus-saboteur-ogn.avif
+Oasis Raider,VEN,0,,,false,false,oasis-raider-ven.avif
+Obelisk Of Power,OGN,0,,,false,false,obelisk-of-power-ogn.avif
+Orb Of Regret,OGN,0,,,false,false,orb-of-regret-ogn.avif
+Order Rune,VEN,0,,,false,false,order-rune-ven.avif
+Order Rune,SFD,0,,,true,false,order-rune-sfd-a.avif
+Order Rune,UNL,0,,,true,false,order-rune-unl-a.avif
+Ornns Forge,SFD,0,,,false,false,ornns-forge-sfd.avif
+Overt Operation,OGN,0,,,false,false,overt-operation-ogn.avif
+Overzealous Fan,SFD,0,,,false,false,overzealous-fan-sfd.avif
+Pack Of Wonders,OGN,0,,,false,false,pack-of-wonders-ogn.avif
+Pakaa Cub,OGN,0,,,false,false,pakaa-cub-ogn.avif
+Party Favos,OGN,0,,,false,false,party-favos-ogn.avif
+Peak Guardian,OGN,0,,,false,false,peak-guardian-ogn.avif
+Pendulum Blade,VEN,0,,,false,false,pendulum-blade-ven.avif
+Perched Grimwyrm,SFD,0,,,false,false,perched-grimwyrm-sfd.avif
+Perfect Execution,VEN,0,,,false,false,perfect-execution-ven.avif
+Petal Pixie,UNL,0,,,false,false,petal-pixie-unl.avif
+Petty Officer,OGN,0,,,false,false,petty-officer-ogn.avif
+Piercing Light,SFD,0,,,false,false,piercing-light-sfd.avif
+Pirates Haven,OGN,0,,,false,false,pirates-haven-ogn.avif
+Pit Crew,OGN,0,,,false,false,pit-crew-ogn.avif
+Pit Rookie,OGN,0,,,false,false,pit-rookie-ogn.avif
+Playful Phantom,OGN,0,,,false,false,playful-phantom-ogn.avif
+Plundering Poro,SFD,0,,,false,false,plundering-poro-sfd.avif
+Poppy Defender Of The Meek,UNL,0,,,true,false,poppy-defender-of-the-meek-unl-a.avif
+Poppy Defender Of The Meek,UNL,0,,,false,false,poppy-defender-of-the-meek-unl.avif
+Poppy Keeper Of The Hammer,UNL,0,,,false,false,poppy-keeper-of-the-hammer-unl.avif
+Poro Herder,OGN,0,,,false,false,poro-herder-ogn.avif
+Portal Rescue,OGN,0,,,false,false,portal-rescue-ogn.avif
+Possession,OGN,0,,,false,false,possession-ogn.avif
+Pouty Poro,OGN,0,,,false,false,pouty-poro-ogn.avif
+Power Nexus,SFD,0,,,false,false,power-nexus-sfd.avif
+Prepared Neophyte,UNL,0,,,false,false,prepared-neophyte-unl.avif
+Primal Strength,OGN,0,,,false,false,primal-strength-ogn.avif
+Prize Of Progress,SFD,0,,,false,false,prize-of-progress-sfd.avif
+Production Surge,SFD,0,,,false,false,production-surge-sfd.avif
+Promising Future,OGN,0,,,false,false,promising-future-ogn.avif
+Punch First,SFD,0,,,false,false,punch-first-sfd.avif
+Punching Poro,VEN,0,,,false,false,punching-poro-ven.avif
+Pyke Returned,UNL,0,,,false,false,pyke-returned-unl.avif
+Rage Amplifier,VEN,0,,,false,false,rage-amplifier-ven.avif
+Raging Firebrand,OGN,0,,,false,false,raging-firebrand-ogn.avif
+Raging Soul,OGN,0,,,false,false,raging-soul-ogn.avif
+Ravenbloom Student,OGN,0,,,false,false,ravenbloom-student-ogn.avif
+Ravenborn Tome,OGN,0,,,false,false,ravenborn-tome-ogn.avif
+Reavers Row,OGN,0,,,false,false,reavers-row-ogn.avif
+Rebuke,OGN,0,,,false,false,rebuke-ogn.avif
+Reckoners Arena,OGN,0,,,false,false,reckoners-arena-ogn.avif
+Recruit,VEN,0,,,false,false,recruit-ven.avif
+Reinforce,OGN,0,,,false,false,reinforce-ogn.avif
+Reksai Swarm Queen,SFD,0,,,false,false,reksai-swarm-queen-sfd.avif
+Renata Glasc Chem Baroness,SFD,0,,,false,false,renata-glasc-chem-baroness-sfd.avif
+Renekton Rage Rueled,VEN,0,,,true,false,renekton-rage-rueled-ven-a.avif
+Renekton Rage Rueled,VEN,0,,,false,false,renekton-rage-rueled-ven.avif
+Rengar Pouncing,SFD,0,,,false,false,rengar-pouncing-sfd.avif
+Rengar Unseen,UNL,0,,,false,false,rengar-unseen-unl.avif
+Retreat,OGN,0,,,false,false,retreat-ogn.avif
+Revna The Lorekeeper,UNL,0,,,false,false,revna-the-lorekeeper-unl.avif
+Rhasa The Sunderer,OGN,0,,,false,false,rhasa-the-sunderer-ogn.avif
+Ribbon Dancer,SFD,0,,,false,false,ribbon-dancer-sfd.avif
+Ride The Wind,OGN,0,,,false,false,ride-the-wind-ogn.avif
+Riposte,SFD,0,,,false,false,riposte-sfd.avif
+Rippers Bay,UNL,0,,,false,false,rippers-bay-unl.avif
+Riptide Rex,OGN,0,,,false,false,riptide-rex-ogn.avif
+Royal Entourage,SFD,0,,,false,false,royal-entourage-sfd.avif
+Royal Guard,SFD,0,,,false,false,royal-guard-sfd.avif
+Ruined Rex,UNL,0,,,false,false,ruined-rex-unl.avif
+Rune Prison,OGN,0,,,false,false,rune-prison-ogn.avif
+Ruthless Strike,VEN,0,,,false,false,ruthless-strike-ven.avif
+Sacred Shears,SFD,0,,,false,false,sacred-shears-sfd.avif
+Sacrifice,UNL,0,,,false,false,sacrifice-unl.avif
+Sai Scout,OGN,0,,,false,false,sai-scout-ogn.avif
+Salvage,OGN,0,,,false,false,salvage-ogn.avif
+Sandshifter,SFD,0,,,false,false,sandshifter-sfd.avif
+Scorchclaw,UNL,0,,,false,false,scorchclaw-unl.avif
+Scrapheap,OGN,0,,,false,false,scrapheap-ogn.avif
+Scrapyard Champion,OGN,0,,,false,false,scrapyard-champion-ogn.avif
+Scrutinizing Sergeant,UNL,0,,,false,false,scrutinizing-sergeant-unl.avif
+Scryers Bloom,UNL,0,,,false,false,scryers-bloom-unl.avif
+Sea Monkey,SFD,0,,,false,false,sea-monkey-sfd.avif
+Seal Of Discord,OGN,0,,,false,false,seal-of-discord-ogn.avif
+Serrated Dirk,SFD,0,,,false,false,serrated-dirk-sfd.avif
+Sett Brawler,VEN,0,,,false,false,sett-brawler-ven.avif
+Sett Kingpin,OGN,0,,,false,false,sett-kingpin-ogn.avif
+Sett The Boss,OGN,0,,,false,false,sett-the-boss-ogn.avif
+Shadow Assassin,VEN,0,,,false,false,shadow-assassin-ven.avif
+Shadow Fiend,VEN,0,,,false,false,shadow-fiend-ven.avif
+Shadow,UNL,0,,,false,false,shadow-unl.avif
+Shadow Watcher,UNL,0,,,false,false,shadow-watcher-unl.avif
+Shakedown,OGN,0,,,false,false,shakedown-ogn.avif
+Shard Of Undoing,UNL,0,,,false,false,shard-of-undoing-unl.avif
+Sharkling,UNL,0,,,false,false,sharkling-unl.avif
+Shen Kinkou,OGN,0,,,false,false,shen-kinkou-ogn.avif
+Sheperds Heirloom,UNL,0,,,false,false,sheperds-heirloom-unl.avif
+Shepherds Heirloom,UNL,0,,,false,false,shepherds-heirloom-unl.avif
+Shipyard Skulker,OGN,0,,,false,false,shipyard-skulker-ogn.avif
+Show Of Strength,SFD,0,,,false,false,show-of-strength-sfd.avif
+Sigil Of The Storm,OGN,0,,,false,false,sigil-of-the-storm-ogn.avif
+Singularity,OGN,0,,,false,false,singularity-ogn.avif
+Sinister Poro,UNL,0,,,false,false,sinister-poro-unl.avif
+Siphon Power,OGN,0,,,false,false,siphon-power-ogn.avif
+Sky Splitter,OGN,0,,,false,false,sky-splitter-ogn.avif
+Skyward Strike,UNL,0,,,false,false,skyward-strike-unl.avif
+Smite,UNL,0,,,false,false,smite-unl.avif
+Smoke And Mirrors,UNL,0,,,false,false,smoke-and-mirrors-unl.avif
+Smoke Screen,OGN,0,,,false,false,smoke-screen-ogn.avif
+Sneaky Deckhand,OGN,0,,,false,false,sneaky-deckhand-ogn.avif
+Soaring Scout,OGN,0,,,false,false,soaring-scout-ogn.avif
+Solari Chief,OGN,0,,,false,false,solari-chief-ogn.avif
+Solari Shieldbearer,OGN,0,,,false,false,solari-shieldbearer-ogn.avif
+Solari Shrine,OGN,0,,,false,false,solari-shrine-ogn.avif
+Sona Harmonious,OGN,0,,,false,false,sona-harmonious-ogn.avif
+Sone Harmonious,VEN,0,,,false,false,sone-harmonious-ven.avif
+Soul Harvest,UNL,0,,,false,false,soul-harvest-unl.avif
+Soul Shepherd,UNL,0,,,false,false,soul-shepherd-unl.avif
+Soul Sword,UNL,0,,,false,false,soul-sword-unl.avif
+Soulgorger,OGN,0,,,false,false,soulgorger-ogn.avif
+Spectral Centaur,UNL,0,,,false,false,spectral-centaur-unl.avif
+Spectral Matron,OGN,0,,,false,false,spectral-matron-ogn.avif
+Spinning Axe,SFD,0,,,false,false,spinning-axe-sfd.avif
+Spirit Wheel,SFD,0,,,false,false,spirit-wheel-sfd.avif
+Spirits Refuge,OGN,0,,,false,false,spirits-refuge-ogn.avif
+Spoils Of War,OGN,0,,,false,false,spoils-of-war-ogn.avif
+Sprite Burst,UNL,0,,,false,false,sprite-burst-unl.avif
+Sprite Call,OGN,0,,,false,false,sprite-call-ogn.avif
+Sprite Fountain,UNL,0,,,false,false,sprite-fountain-unl.avif
+Sprite Queen,UNL,0,,,false,false,sprite-queen-unl.avif
+Square Up,UNL,0,,,false,false,square-up-unl.avif
+Stacked Deck,OGN,0,,,false,false,stacked-deck-ogn.avif
+Stalking Wolf,UNL,0,,,false,false,stalking-wolf-unl.avif
+Stalwart Poro,OGN,0,,,false,false,stalwart-poro-ogn.avif
+Stand United,OGN,0,,,false,false,stand-united-ogn.avif
+Star Crossed,UNL,0,,,false,false,star-crossed-unl.avif
+Star Spring,UNL,0,,,false,false,star-spring-unl.avif
+Stare Down,UNL,0,,,false,false,stare-down-unl.avif
+Starhound,UNL,0,,,false,false,starhound-unl.avif
+Startipped Peak,OGN,0,,,false,false,startipped-peak-ogn.avif
+Stealthy Pursuer,OGN,0,,,false,false,stealthy-pursuer-ogn.avif
+Stellacorn Herder,SFD,0,,,false,false,stellacorn-herder-sfd.avif
+Steraks Gage,SFD,0,,,false,false,steraks-gage-sfd.avif
+Stormclaw Ursine,OGN,0,,,false,false,stormclaw-ursine-ogn.avif
+Strike Down,SFD,0,,,false,false,strike-down-sfd.avif
+Stupefy,OGN,0,,,false,false,stupefy-ogn.avif
+Sudden Storm,SFD,0,,,false,false,sudden-storm-sfd.avif
+Sumpworks Map,UNL,0,,,false,false,sumpworks-map-unl.avif
+Sun Disc,OGN,0,,,false,false,sun-disc-ogn.avif
+Sunken Temple,SFD,0,,,false,false,sunken-temple-sfd.avif
+Sunlit Guardian,OGN,0,,,false,false,sunlit-guardian-ogn.avif
+Symbol Of The Solari,OGN,0,,,false,false,symbol-of-the-solari-ogn.avif
+Tactical Retreat,UNL,0,,,false,false,tactical-retreat-unl.avif
+Targonian Visionary,UNL,0,,,false,false,targonian-visionary-unl.avif
+Targons Peak,OGN,0,,,false,false,targons-peak-ogn.avif
+Taric Protector,OGN,0,,,false,false,taric-protector-ogn.avif
+Teemo Scout,OGN,0,,,false,false,teemo-scout-ogn.avif
+The Academy,UNL,0,,,false,false,the-academy-unl.avif
+The Arenas Greatest,OGN,0,,,false,false,the-arenas-greatest-ogn.avif
+The Candlelit Sanctum,OGN,0,,,false,false,the-candlelit-sanctum-ogn.avif
+The Dreaming Tree,OGN,0,,,false,false,the-dreaming-tree-ogn.avif
+The Grand Plaza,OGN,0,,,false,false,the-grand-plaza-ogn.avif
+The List,UNL,0,,,false,false,the-list-unl.avif
+The Syren,OGN,0,,,false,false,the-syren-ogn.avif
+Thermo Beam,OGN,0,,,false,false,thermo-beam-ogn.avif
+Thrill Of The Hunt,UNL,0,,,false,false,thrill-of-the-hunt-unl.avif
+Thwonk,SFD,0,,,false,false,thwonk-sfd.avif
+Tideturner,OGN,0,,,false,false,tideturner-ogn.avif
+Towering Combatant,UNL,0,,,false,false,towering-combatant-unl.avif
+Towering Pairofant,UNL,0,,,false,false,towering-pairofant-unl.avif
+Trapping Grounds,UNL,0,,,false,false,trapping-grounds-unl.avif
+Traveling Merchant,OGN,0,,,false,false,traveling-merchant-ogn.avif
+Treasure Hunter,SFD,0,,,false,false,treasure-hunter-sfd.avif
+Treasure Trove,OGN,0,,,false,false,treasure-trove-ogn.avif
+Trevor Snoozebottom,UNL,0,,,false,false,trevor-snoozebottom-unl.avif
+Tricksy Tentacles,UNL,0,,,false,false,tricksy-tentacles-unl.avif
+Trifarian Gloryseeker,OGN,0,,,false,false,trifarian-gloryseeker-ogn.avif
+Trifarian War Camp,OGN,0,,,false,false,trifarian-war-camp-ogn.avif
+Trove Golem,SFD,0,,,false,false,trove-golem-sfd.avif
+Trusty Ramhound,SFD,0,,,false,false,trusty-ramhound-sfd.avif
+Turn To Dust,UNL,0,,,false,false,turn-to-dust-unl.avif
+Twisted Fate Gambler,OGN,0,,,false,false,twisted-fate-gambler-ogn.avif
+Udyr Wildman,OGN,0,,,false,false,udyr-wildman-ogn.avif
+Ultrasoft Poro,UNL,0,,,false,false,ultrasoft-poro-unl.avif
+Undercover Agent,OGN,0,,,false,false,undercover-agent-ogn.avif
+Undying Legion,UNL,0,,,false,false,undying-legion-unl.avif
+Undying Loyalty,UNL,0,,,false,false,undying-loyalty-unl.avif
+Unlicensed Armory,OGN,0,,,false,false,unlicensed-armory-ogn.avif
+Unsung Hero,SFD,0,,,false,false,unsung-hero-sfd.avif
+Unyielding Spirit,OGN,0,,,false,false,unyielding-spirit-ogn.avif
+Upstage Comedy,UNL,0,,,false,false,upstage-comedy-unl.avif
+Valley Of Idols,UNL,0,,,false,false,valley-of-idols-unl.avif
+Vanguard Armory,SFD,0,,,false,false,vanguard-armory-sfd.avif
+Vanguard Captain,OGN,0,,,false,false,vanguard-captain-ogn.avif
+Vanguard Helm,OGN,0,,,false,false,vanguard-helm-ogn.avif
+Vanguard Sergeant,OGN,0,,,false,false,vanguard-sergeant-ogn.avif
+Vault Breaker,UNL,0,,,false,false,vault-breaker-unl.avif
+Vaults Of Helia,UNL,0,,,false,false,vaults-of-helia-unl.avif
+Vayne Hunter,OGN,0,,,false,false,vayne-hunter-ogn.avif
+Veiled Temple,SFD,0,,,false,false,veiled-temple-sfd.avif
+Vengeance,OGN,0,,,false,false,vengeance-ogn.avif
+Veteran Poro,SFD,0,,,false,false,veteran-poro-sfd.avif
+Vex Gloomist,UNL,0,,,false,false,vex-gloomist-unl.avif
+Vex Mocking,UNL,0,,,false,false,vex-mocking-unl.avif
+Vi Destructive,OGN,0,,,false,false,vi-destructive-ogn.avif
+Vi Hotheaded,UNL,0,,,false,false,vi-hotheaded-unl.avif
+Vi Peacekeeper,UNL,0,,,false,false,vi-peacekeeper-unl.avif
+Vi Piltover Enforcer,UNL,0,,,false,false,vi-piltover-enforcer-unl.avif
+Vicious Snapjaws,UNL,0,,,false,false,vicious-snapjaws-unl.avif
+Viktor Herald Of The Arcane,OGN,0,,,false,false,viktor-herald-of-the-arcane-ogn.avif
+Viktor Innovator,OGN,0,,,false,false,viktor-innovator-ogn.avif
+Vilemaws Lair,OGN,0,,,false,false,vilemaws-lair-ogn.avif
+Void Drone,SFD,0,,,false,false,void-drone-sfd.avif
+Void Gate,OGN,0,,,false,false,void-gate-ogn.avif
+Void Hatchling,SFD,0,,,false,false,void-hatchling-sfd.avif
+Void Seeker,OGN,0,,,false,false,void-seeker-ogn.avif
+Volibear Imposing,OGN,0,,,true,false,volibear-imposing-ogn-a.avif
+Volibear Imposing,OGN,0,,,false,false,volibear-imposing-ogn.avif
+Volibear Relentless Storm,OGN,0,,,false,false,volibear-relentless-storm-ogn.avif
+Voracious Gromp,UNL,0,,,false,false,voracious-gromp-unl.avif
+Wages Of Pain,SFD,0,,,false,false,wages-of-pain-sfd.avif
+Walking Roost,UNL,0,,,false,false,walking-roost-unl.avif
+Wallop,OGN,0,,,false,false,wallop-ogn.avif
+Warmogs Armor,SFD,0,,,false,false,warmogs-armor-sfd.avif
+Warwick Hunter,OGN,0,,,false,false,warwick-hunter-ogn.avif
+Watchful Sentry,OGN,0,,,false,false,watchful-sentry-ogn.avif
+Whirlwind,OGN,0,,,false,false,whirlwind-ogn.avif
+Wielder Of Water,OGN,0,,,false,false,wielder-of-water-ogn.avif
+Wildclaw Shaman,OGN,0,,,false,false,wildclaw-shaman-ogn.avif
+Wily Newtfish,UNL,0,,,false,false,wily-newtfish-unl.avif
+Wind Wall,OGN,0,,,false,false,wind-wall-ogn.avif
+Windsinger,SFD,0,,,false,false,windsinger-sfd.avif
+Windswept Hillock,OGN,0,,,false,false,windswept-hillock-ogn.avif
+Wizened Elder,OGN,0,,,false,false,wizened-elder-ogn.avif
+Wraith Of Echoes,OGN,0,,,false,false,wraith-of-echoes-ogn.avif
+Wuju Apprentice,UNL,0,,,false,false,wuju-apprentice-unl.avif
+Yasuo Remorseful,OGN,0,,,false,false,yasuo-remorseful-ogn.avif
+Yasuo Unforgiven,OGN,0,,,false,false,yasuo-unforgiven-ogn.avif
+Yeti Brawler,UNL,0,,,false,false,yeti-brawler-unl.avif
+Yone Blademaster,SFD,0,,,false,false,yone-blademaster-sfd.avif
+Yordle Explorer,SFD,0,,,false,false,yordle-explorer-sfd.avif
+Yuumi Magical Cat,UNL,0,,,false,false,yuumi-magical-cat-unl.avif
+Zaun Warrens,OGN,0,,,false,false,zaun-warrens-ogn.avif
+Zaunite Bouncer,OGN,0,,,false,false,zaunite-bouncer-ogn.avif
+Zhonyas Hourglass,OGN,0,,,false,false,zhonyas-hourglass-ogn.avif
+Zilean Time Mage,UNL,0,,,false,false,zilean-time-mage-unl.avif
+Acceleration Gate,VEN,0,,,false,false,acceleration-gate-ven.avif
+Affectionate Poro,VEN,0,,,false,false,affectionate-poro-ven.avif
+Akali Deadly Weapon,VEN,0,,,true,false,akali-deadly-weapon-ven-a.avif
+Akali Deadly Weapon,VEN,0,,,false,false,akali-deadly-weapon-ven.avif
+Akali Silent,VEN,0,,,true,false,akali-silent-ven-a.avif
+Akali Silent,VEN,0,,,false,false,akali-silent-ven.avif
+Ambessa Respected And Feared,VEN,0,,,true,false,ambessa-respected-and-feared-ven-a.avif
+Ambessa Respected And Feared,VEN,0,,,false,false,ambessa-respected-and-feared-ven.avif
+Ambessa The Wolf,VEN,0,,,true,false,ambessa-the-wolf-ven-a.avif
+Ambessa The Wolf,VEN,0,,,false,false,ambessa-the-wolf-ven.avif
+Applied Researchers,VEN,0,,,false,false,applied-researchers-ven.avif
+Apprentice Mage,VEN,0,,,false,false,apprentice-mage-ven.avif
+Astral Heron,VEN,0,,,false,false,astral-heron-ven.avif
+Aurok General,VEN,0,,,false,false,aurok-general-ven.avif
+Baccai Witherclaw,VEN,0,,,false,false,baccai-witherclaw-ven.avif
+Bottled Constellation,VEN,0,,,false,false,bottled-constellation-ven.avif
+Brutal Hunter,VEN,0,,,false,false,brutal-hunter-ven.avif
+Butcher Of Sands,VEN,0,,,false,false,butcher-of-sands-ven.avif
+Cataclysmic Duel,VEN,0,,,false,false,cataclysmic-duel-ven.avif
+Clairvoyance,VEN,0,,,false,false,clairvoyance-ven.avif
+Cloud Drake,VEN,0,,,false,false,cloud-drake-ven.avif
+Corrupted Dragon,VEN,0,,,false,false,corrupted-dragon-ven.avif
+Covert Informant,VEN,0,,,false,false,covert-informant-ven.avif
+Crumbling Sands,VEN,0,,,false,false,crumbling-sands-ven.avif
+Curator Of Sands,VEN,0,,,false,false,curator-of-sands-ven.avif
+Dame The Despoiler,VEN,0,,,false,false,dame-the-despoiler-ven.avif
+Decree Of Discord,VEN,0,,,false,false,decree-of-discord-ven.avif
+Decree Of Focus,VEN,0,,,false,false,decree-of-focus-ven.avif
+Decree Of Insight,VEN,0,,,false,false,decree-of-insight-ven.avif
+Decree Of Strength,VEN,0,,,false,false,decree-of-strength-ven.avif
+Decree Of Unity,VEN,0,,,false,false,decree-of-unity-ven.avif
+Defender Of Tomorrow,VEN,0,,,false,false,defender-of-tomorrow-ven.avif
+Disciple Of Shen,VEN,0,,,false,false,disciple-of-shen-ven.avif
+Dominus,VEN,0,,,false,false,dominus-ven.avif
+Dragon Form,VEN,0,,,false,false,dragon-form-ven.avif
+Dragon Roost,VEN,0,,,false,false,dragon-roost-ven.avif
+Dredge Up,VEN,0,,,false,false,dredge-up-ven.avif
+Endless Riches,VEN,0,,,false,false,endless-riches-ven.avif
+Escaped Grayback,VEN,0,,,false,false,escaped-grayback-ven.avif
+Esteemed Hierophant,VEN,0,,,false,false,esteemed-hierophant-ven.avif
+Eye Of Twilight,VEN,0,,,false,false,eye-of-twilight-ven.avif
+Fallen Feline,VEN,0,,,false,false,fallen-feline-ven.avif
+Field Musicians,VEN,0,,,false,false,field-musicians-ven.avif
+Forgotten Relic,VEN,0,,,false,false,forgotten-relic-ven.avif
+Fretful Feline,VEN,0,,,false,false,fretful-feline-ven.avif
+Frostcoat Mother,VEN,0,,,false,false,frostcoat-mother-ven.avif
+Gangplank Naval,VEN,0,,,false,false,gangplank-naval-ven.avif
+Glowstone,VEN,0,,,false,false,glowstone-ven.avif
+Grumpy Rockbear,VEN,0,,,false,false,grumpy-rockbear-ven.avif
+Gust Monk,VEN,0,,,false,false,gust-monk-ven.avif
+Guttural Roar,VEN,0,,,false,false,guttural-roar-ven.avif
+Hand Hammer,VEN,0,,,false,false,hand-hammer-ven.avif
+Heart Of The Tempest,VEN,0,,,false,false,heart-of-the-tempest-ven.avif
+Heisho Shell Of The World,VEN,0,,,false,false,heisho-shell-of-the-world-ven.avif
+Helm Of Suppression,VEN,0,,,false,false,helm-of-suppression-ven.avif
+Hextech Disc,VEN,0,,,false,false,hextech-disc-ven.avif
+Hextech Formula,VEN,0,,,false,false,hextech-formula-ven.avif
+Horns Of Dragon,VEN,0,,,false,false,horns-of-dragon-ven.avif
+Hungry Wolf,VEN,0,,,false,false,hungry-wolf-ven.avif
+Iterative Design,VEN,0,,,false,false,iterative-design-ven.avif
+Jagged Cutlass,VEN,0,,,false,false,jagged-cutlass-ven.avif
+Jayce Brilliant Inventor,VEN,0,,,true,false,jayce-brilliant-inventor-ven-a.avif
+Jayce Brilliant Inventor,VEN,0,,,false,false,jayce-brilliant-inventor-ven.avif
+Jayce Hammer In Hand,VEN,0,,,true,false,jayce-hammer-in-hand-ven-a.avif
+Jayce Hammer In Hand,VEN,0,,,false,false,jayce-hammer-in-hand-ven.avif
+Jinx Demolitionist,VEN,0,,,false,false,jinx-demolitionist-ven.avif
+Kayle Justified,VEN,0,,,false,false,kayle-justified-ven.avif
+Keeper Of Law,VEN,0,,,false,false,keeper-of-law-ven.avif
+Kennen Keeper Of Balance,VEN,0,,,true,false,kennen-keeper-of-balance-ven-a.avif
+Kennen Keeper Of Balance,VEN,0,,,false,false,kennen-keeper-of-balance-ven.avif
+Kennen Storm Of Shuriken,VEN,0,,,true,false,kennen-storm-of-shuriken-ven-a.avif
+Kennen Storm Of Shuriken,VEN,0,,,false,false,kennen-storm-of-shuriken-ven.avif
+Kharox,VEN,0,,,false,false,kharox-ven.avif
+Ki Barrier,VEN,0,,,false,false,ki-barrier-ven.avif
+Kinkou Lifeblade,VEN,0,,,false,false,kinkou-lifeblade-ven.avif
+Lacerate,VEN,0,,,false,false,lacerate-ven.avif
+Legion Marauder,VEN,0,,,false,false,legion-marauder-ven.avif
+Lightning Rush,VEN,0,,,false,false,lightning-rush-ven.avif
+Lllaoi Prophet Of The Great Kraken,VEN,0,,,false,false,lllaoi-prophet-of-the-great-kraken-ven.avif
+Masa Crashing Thunder,VEN,0,,,false,false,masa-crashing-thunder-ven.avif
+Mask Mother,VEN,0,,,false,false,mask-mother-ven.avif
+Master Of Shadows,VEN,0,,,false,false,master-of-shadows-ven.avif
+Matriarch Of War,VEN,0,,,false,false,matriarch-of-war-ven.avif
+Mel Defiant Soul,VEN,0,,,true,false,mel-defiant-soul-ven-a.avif
+Mel Defiant Soul,VEN,0,,,false,false,mel-defiant-soul-ven.avif
+Mel Newly Awakened,VEN,0,,,true,false,mel-newly-awakened-ven-a.avif
+Mel Newly Awakened,VEN,0,,,false,false,mel-newly-awakened-ven.avif
+Mesmerize,VEN,0,,,false,false,mesmerize-ven.avif
+Minah Swiftfoot,VEN,0,,,false,false,minah-swiftfoot-ven.avif
+Mourful Witness,VEN,0,,,false,false,mourful-witness-ven.avif
+Mystic Vortex,VEN,0,,,false,false,mystic-vortex-ven.avif
+Nasus Ascended,VEN,0,,,true,false,nasus-ascended-ven-a.avif
+Nasus Ascended,VEN,0,,,false,false,nasus-ascended-ven.avif
+Nasus Guardian Of Knowledge,VEN,0,,,true,false,nasus-guardian-of-knowledge-ven-a.avif
+Nasus Guardian Of Knowledge,VEN,0,,,false,false,nasus-guardian-of-knowledge-ven.avif
+Noxian Demolitionist,VEN,0,,,false,false,noxian-demolitionist-ven.avif
+Noxian Emissary,VEN,0,,,false,false,noxian-emissary-ven.avif
+Ocean Drake,VEN,0,,,false,false,ocean-drake-ven.avif
+Ol Poro,VEN,0,,,false,false,ol-poro-ven.avif
+Onslaught,VEN,0,,,false,false,onslaught-ven.avif
+Otterpus,VEN,0,,,false,false,otterpus-ven.avif
+Pakaa Protector,VEN,0,,,false,false,pakaa-protector-ven.avif
+Patched Porobot,VEN,0,,,false,false,patched-porobot-ven.avif
+Piltovan Forge,VEN,0,,,false,false,piltovan-forge-ven.avif
+Platewyrm Egg,VEN,0,,,false,false,platewyrm-egg-ven.avif
+Plaza Guardian,VEN,0,,,false,false,plaza-guardian-ven.avif
+Profiteer,VEN,0,,,false,false,profiteer-ven.avif
+Protective Sands,VEN,0,,,false,false,protective-sands-ven.avif
+Public Execution,VEN,0,,,false,false,public-execution-ven.avif
+Questionable Tome,VEN,0,,,false,false,questionable-tome-ven.avif
+Rampage,VEN,0,,,false,false,rampage-ven.avif
+Ravenbloom Prefect,VEN,0,,,false,false,ravenbloom-prefect-ven.avif
+Rebuttal,VEN,0,,,false,false,rebuttal-ven.avif
+Reluctant Leader,VEN,0,,,false,false,reluctant-leader-ven.avif
+Renekton Brute,VEN,0,,,true,false,renekton-brute-ven-a.avif
+Renekton Brute,VEN,0,,,false,false,renekton-brute-ven.avif
+Repair Specialist,VEN,0,,,false,false,repair-specialist-ven.avif
+Resonating Strike,VEN,0,,,false,false,resonating-strike-ven.avif
+Risen Altar,VEN,0,,,false,false,risen-altar-ven.avif
+Riven Shattered,VEN,0,,,false,false,riven-shattered-ven.avif
+Rogue Assassin,VEN,0,,,false,false,rogue-assassin-ven.avif
+Sacred Protector,VEN,0,,,false,false,sacred-protector-ven.avif
+Sanction,VEN,0,,,false,false,sanction-ven.avif
+Sandstone Chimera,VEN,0,,,false,false,sandstone-chimera-ven.avif
+Sandswept Tomb,VEN,0,,,false,false,sandswept-tomb-ven.avif
+Serene Ascetic,VEN,0,,,false,false,serene-ascetic-ven.avif
+Shadow Dash,VEN,0,,,false,false,shadow-dash-ven.avif
+Shadow Order Disciple,VEN,0,,,false,false,shadow-order-disciple-ven.avif
+Shadow Temple,VEN,0,,,false,false,shadow-temple-ven.avif
+Shadowblade Lurker,VEN,0,,,false,false,shadowblade-lurker-ven.avif
+Shadows Of The Past,VEN,0,,,false,false,shadows-of-the-past-ven.avif
+Shady Spectacles,VEN,0,,,false,false,shady-spectacles-ven.avif
+Shen Leader Of The Kinkou Order,VEN,0,,,true,false,shen-leader-of-the-kinkou-order-ven-a.avif
+Shen Leader Of The Kinkou Order,VEN,0,,,false,false,shen-leader-of-the-kinkou-order-ven.avif
+Shen Scourge Of Shadows,VEN,0,,,true,false,shen-scourge-of-shadows-ven-a.avif
+Shen Scourge Of Shadows,VEN,0,,,false,false,shen-scourge-of-shadows-ven.avif
+Shock Blast,VEN,0,,,false,false,shock-blast-ven.avif
+Shuriken Flip,VEN,0,,,false,false,shuriken-flip-ven.avif
+Siphoning Strike,VEN,0,,,false,false,siphoning-strike-ven.avif
+Sky Cruiser,VEN,0,,,false,false,sky-cruiser-ven.avif
+Solari Sunhawk,VEN,0,,,false,false,solari-sunhawk-ven.avif
+Souls Reflection,VEN,0,,,false,false,souls-reflection-ven.avif
+Soulspinner,VEN,0,,,false,false,soulspinner-ven.avif
+Spiderling,VEN,0,,,false,false,spiderling-ven.avif
+Stargazer,VEN,0,,,false,false,stargazer-ven.avif
+Steel Paws,VEN,0,,,false,false,steel-paws-ven.avif
+Swain Visionary,VEN,0,,,false,false,swain-visionary-ven.avif
+Tail Cloaked Matriarch,VEN,0,,,false,false,tail-cloaked-matriarch-ven.avif
+Temporal Breach,VEN,0,,,false,false,temporal-breach-ven.avif
+Threshold Of The Gray,VEN,0,,,false,false,threshold-of-the-gray-ven.avif
+Tomb Raider Barbara,VEN,0,,,false,false,tomb-raider-barbara-ven.avif
+Tools Of Empire,VEN,0,,,false,false,tools-of-empire-ven.avif
+Tornado Warrior,VEN,0,,,false,false,tornado-warrior-ven.avif
+Twilight Reveler,VEN,0,,,false,false,twilight-reveler-ven.avif
+Twilight Shroud,VEN,0,,,false,false,twilight-shroud-ven.avif
+Twilight Step,VEN,0,,,false,false,twilight-step-ven.avif
+Up From The Deep,VEN,0,,,false,false,up-from-the-deep-ven.avif
+Vi Destructive,VEN,0,,,false,false,vi-destructive-ven.avif
+Wild Claw,VEN,0,,,false,false,wild-claw-ven.avif
+Wind And Ghosts,VEN,0,,,false,false,wind-and-ghosts-ven.avif
+Zed From The Shadows,VEN,0,,,true,false,zed-from-the-shadows-ven-a.avif
+Zed From The Shadows,VEN,0,,,false,false,zed-from-the-shadows-ven.avif
+Zed Without A Sound,VEN,0,,,true,false,zed-without-a-sound-ven-a.avif
+Zed Without A Sound,VEN,0,,,false,false,zed-without-a-sound-ven.avif
+Kinkou Temple,VEN,0,,,false,false,kinkou-temple-ven.avif

@@ -1,58 +1,365 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap" rel="stylesheet">
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap"
+        rel="stylesheet"
+    >
+
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+        crossorigin="anonymous"
+    >
+
     <link rel="stylesheet" href="style.css">
 
     <title>Riftbound Card Inventory</title>
 </head>
+
+
 <body>
-    <div class="">
-        <div class="container hero">
-            <div class="row d-flex align-items-center justify-content-center pt-5">
-                <div class="col-12">
-                    <h1 class="text-center share-tech-regular">Riftbound Card Inventory</h1>
-                </div>
+
+    <!-- ============================= -->
+    <!-- TITLE -->
+    <!-- ============================= -->
+
+    <div class="container hero">
+
+        <div
+            class="row d-flex align-items-center justify-content-center pt-5"
+        >
+
+            <div class="col-12">
+
+                <h1 class="text-center share-tech-regular">
+
+                    Riftbound Card Inventory
+
+                </h1>
+
             </div>
+
         </div>
 
-        <div class="container">
-            <div class="row d-flex align-items-center justify-content-center pt-3">
-                <div class="btn-group flex-wrap filter-buttons" role="group">
-                    <button type="button" class="btn btn-outline-primary filter-button active" data-filter="All">All</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Legend">Legend</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Unit">Unit</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Rune">Rune</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Spell">Spell</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Gear">Gear</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Battlefield">Battlefield</button>
-                    <button type="button" class="btn btn-outline-primary filter-button" data-filter="Token">Token</button>
-                </div>
-            </div>
-        </div>
-
-        <div class="container text-center mt-3">
-            <h6 id="totalCardCount" class="share-tech-regular-v2">Total Cards: 0</h6>
-        </div>
-
-        <div class="container text-center">
-            <input class="form-control w-75 mx-auto searchBar" type="search" placeholder="Search by card name or set number">
-        </div>
-
-        <div id="cardList" class="container pt-5">
-            <div id="cardRow" class="row justify-content-center g-4"></div>
-        </div>
-        <p id="noResults" class="text-center mt-4" style="display: none;">No results found.</p>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+
+
+    <!-- ============================= -->
+    <!-- COLLECTION FILTER -->
+    <!-- ============================= -->
+
+    <div class="container mt-3">
+
+        <div class="text-center mb-2">
+
+            <strong>Collection</strong>
+
+        </div>
+
+
+        <div
+            class="d-flex justify-content-center collection-buttons"
+        >
+
+            <button
+                type="button"
+                class="btn btn-dark collection-filter-button active"
+                data-collection="all"
+            >
+
+                All Cards
+
+            </button>
+
+
+            <button
+                type="button"
+                class="btn btn-outline-dark collection-filter-button"
+                data-collection="owned"
+            >
+
+                My Collection
+
+            </button>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- ============================= -->
+    <!-- TYPE FILTER -->
+    <!-- ============================= -->
+
+    <div class="container mt-4">
+
+        <div class="text-center mb-2">
+
+            <strong>Card Type</strong>
+
+        </div>
+
+
+        <div
+            class="row d-flex align-items-center justify-content-center"
+        >
+
+            <div
+                class="btn-group flex-wrap filter-buttons"
+                role="group"
+            >
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button active"
+                    data-filter="All"
+                >
+                    All
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Legend"
+                >
+                    Legend
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Unit"
+                >
+                    Unit
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Rune"
+                >
+                    Rune
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Spell"
+                >
+                    Spell
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Gear"
+                >
+                    Gear
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Battlefield"
+                >
+                    Battlefield
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-primary filter-button"
+                    data-filter="Token"
+                >
+                    Token
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- ============================= -->
+    <!-- SET FILTER -->
+    <!-- ============================= -->
+
+    <div class="container mt-4">
+
+        <div class="text-center mb-2">
+
+            <strong>Set</strong>
+
+        </div>
+
+
+        <div
+            class="row d-flex align-items-center justify-content-center"
+        >
+
+            <div
+                class="btn-group flex-wrap set-filter-buttons"
+                role="group"
+            >
+
+                <button
+                    type="button"
+                    class="btn btn-outline-secondary set-filter-button active"
+                    data-set="All"
+                >
+                    All Sets
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-secondary set-filter-button"
+                    data-set="OGN"
+                >
+                    OGN
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-secondary set-filter-button"
+                    data-set="SFD"
+                >
+                    SFD
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-secondary set-filter-button"
+                    data-set="UNL"
+                >
+                    UNL
+                </button>
+
+
+                <button
+                    type="button"
+                    class="btn btn-outline-secondary set-filter-button"
+                    data-set="VEN"
+                >
+                    VEN
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- ============================= -->
+    <!-- TOTAL OWNED -->
+    <!-- ============================= -->
+
+    <div class="container text-center mt-4">
+
+        <h6
+            id="totalCardCount"
+            class="share-tech-regular-v2"
+        >
+
+            Cards Owned: 0
+
+        </h6>
+
+    </div>
+
+
+
+    <!-- ============================= -->
+    <!-- SEARCH -->
+    <!-- ============================= -->
+
+    <div class="container text-center">
+
+        <input
+            class="form-control w-75 mx-auto searchBar"
+            type="search"
+            placeholder="Search by card name"
+        >
+
+    </div>
+
+
+
+    <!-- ============================= -->
+    <!-- CARDS -->
+    <!-- ============================= -->
+
+    <div
+        id="cardList"
+        class="container pt-5"
+    >
+
+        <div
+            id="cardRow"
+            class="row justify-content-center g-4"
+        ></div>
+
+    </div>
+
+
+
+    <!-- ============================= -->
+    <!-- NO RESULTS -->
+    <!-- ============================= -->
+
+    <p
+        id="noResults"
+        class="text-center mt-4"
+        style="display: none;"
+    >
+
+        No results found.
+
+    </p>
+
+
+
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"
+    ></script>
+
+
     <script src="script.js"></script>
+
 </body>
+
 </html>

@@ -1,120 +1,453 @@
-.hero{
+/* ================================= */
+/* HERO */
+/* ================================= */
+
+.hero {
+
     width: 100%;
+
     height: auto;
-    padding-top: clamp(0.5rem, 2vw, 1.5rem);
-    padding-bottom: clamp(0.25rem, 1vw, 0.75rem);
+
+    padding-top:
+        clamp(
+            0.5rem,
+            2vw,
+            1.5rem
+        );
+
+    padding-bottom:
+        clamp(
+            0.25rem,
+            1vw,
+            0.75rem
+        );
+
 }
+
+
+
+
+/* ================================= */
+/* FONTS */
+/* ================================= */
 
 .share-tech-regular {
-  font-family: "Share Tech", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: clamp(2.5rem, 6vw, 5.5rem);
-  line-height: 1;
-  white-space: normal;
+
+    font-family:
+        "Share Tech",
+        sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+    font-size:
+        clamp(
+            2.5rem,
+            6vw,
+            5.5rem
+        );
+
+    line-height: 1;
+
 }
+
+
 
 .share-tech-regular-v2 {
-  font-family: "Share Tech", sans-serif;
-  font-weight: 100;
-  font-style: normal;
-  font-size: clamp(1rem, 4vw, 3.5rem);
-  line-height: 1;
-  white-space: normal;
+
+    font-family:
+        "Share Tech",
+        sans-serif;
+
+    font-weight: 100;
+
+    font-style: normal;
+
+    font-size:
+        clamp(
+            1rem,
+            4vw,
+            3rem
+        );
+
+    line-height: 1;
+
 }
+
+
+
+
+/* ================================= */
+/* SEARCH BAR */
+/* ================================= */
 
 .searchBar {
-  font-size: clamp(0.9rem, 1.5vw, 1.1rem);
-  padding: clamp(0.6rem, 1vw, 0.9rem);
-  margin-top: clamp(0.5rem, 2vw, 1.25rem);
+
+    font-size:
+        clamp(
+            0.9rem,
+            1.5vw,
+            1.1rem
+        );
+
+    padding:
+        clamp(
+            0.6rem,
+            1vw,
+            0.9rem
+        );
+
+    margin-top:
+        clamp(
+            0.5rem,
+            2vw,
+            1.25rem
+        );
+
 }
 
-.animated-bg{
-  background: linear-gradient(
-    135deg,
-    #4059AD,
-    #F4B942,
-    #8AE1FC,
-    #48B8D0,
-    #010400
-  );   
-  border-radius: 20px;
-  background-size: 400% 400%;
-  animation: gradientFlow 15s ease infinite;
+
+
+
+/* ================================= */
+/* ANIMATED BACKGROUND */
+/* ================================= */
+
+.animated-bg {
+
+    background:
+        linear-gradient(
+            135deg,
+            #4059AD,
+            #F4B942,
+            #8AE1FC,
+            #48B8D0,
+            #010400
+        );
+
+    border-radius: 20px;
+
+    background-size:
+        400% 400%;
+
+    animation:
+        gradientFlow
+        15s
+        ease
+        infinite;
+
 }
 
-@keyframes gradientFlow{
-  0%{
-    background-position: 0% 50%;
-  }
-  50%{
-    background-position: 100% 50%;
-  }
-  100%{
-    background-position: 0% 50%;
-  }
+
+
+@keyframes gradientFlow {
+
+    0% {
+
+        background-position:
+            0% 50%;
+
+    }
+
+
+    50% {
+
+        background-position:
+            100% 50%;
+
+    }
+
+
+    100% {
+
+        background-position:
+            0% 50%;
+
+    }
+
 }
 
-.card-custom{
-  width:100%;
-  aspect-ratio:5/7;
-  border-radius:20px;
-  background-color:black;
-  transition: all 0.3s ease;
-  overflow: hidden;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+
+
+/* ================================= */
+/* CARD */
+/* ================================= */
+
+.card-custom {
+
+    width: 100%;
+
+    aspect-ratio: 5 / 7;
+
+    border-radius: 20px;
+
+    background-color: black;
+
+    transition:
+        all
+        0.3s
+        ease;
+
+    overflow: hidden;
+
+    position: relative;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
 }
 
-.card-img{
-    width:100%;
-    height:100%;
-    object-fit:cover;
+
+
+.card-img {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
 }
 
-.card-img.rotate-90{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%) rotate(90deg) scale(1.65);
-  transform-origin: center;
-  transition: transform 0.25s ease;
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  display: block;
+
+
+.card-img.rotate-90 {
+
+    position: absolute;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform:
+        translate(-50%, -50%)
+        rotate(90deg)
+        scale(1.65);
+
+    transform-origin: center;
+
+    transition:
+        transform
+        0.25s
+        ease;
+
+    max-width: 100%;
+
+    max-height: 100%;
+
+    width: auto;
+
+    height: auto;
+
+    display: block;
+
 }
 
-.card-custom:hover{
-    transform: translateY(-8px) scale(1.03);
+
+
+.card-custom:hover {
+
+    transform:
+        translateY(-8px)
+        scale(1.03);
+
 }
 
-.card-caption{
-    background:white;
-    border-radius:10px;
-    margin-top:10px;
-    padding:8px 10px;
-    font-size:14px;
-    text-align:center;
-    box-shadow:0 2px 6px rgba(0,0,0,0.15);
+
+
+
+/* ================================= */
+/* CARD CAPTION */
+/* ================================= */
+
+.card-caption {
+
+    background: white;
+
+    border-radius: 10px;
+
+    margin-top: 10px;
+
+    padding: 10px;
+
+    font-size: 14px;
+
+    text-align: center;
+
+    box-shadow:
+        0 2px 6px
+        rgba(
+            0,
+            0,
+            0,
+            0.15
+        );
+
 }
+
+
+
+
+/* ================================= */
+/* QUANTITY */
+/* ================================= */
+
+.quantity-controls {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 15px;
+
+}
+
+
+
+.quantity-button {
+
+    width: 45px;
+
+    height: 40px;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+
+.quantity-number {
+
+    min-width: 30px;
+
+    font-size: 22px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+}
+
+
+
+
+/* ================================= */
+/* TYPE FILTER */
+/* ================================= */
 
 .filter-buttons {
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  justify-content: center;
+
+    gap: 0.5rem;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
 }
+
+
 
 .filter-button.active {
-  background-color: #010400;
-  color: white;
+
+    background-color: #010400;
+
+    color: white;
+
 }
 
+
+
+
+/* ================================= */
+/* SET FILTER */
+/* ================================= */
+
+.set-filter-buttons {
+
+    gap: 0.5rem;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+}
+
+
+
+.set-filter-button.active {
+
+    background-color: #010400;
+
+    color: white;
+
+    border-color: #010400;
+
+}
+
+
+
+
+/* ================================= */
+/* COLLECTION FILTER */
+/* ================================= */
+
+.collection-buttons {
+
+    gap: 10px;
+
+}
+
+
+
+
+/* ================================= */
+/* MOBILE */
+/* ================================= */
+
 @media (max-width: 576px) {
-  .filter-buttons {
-    gap: 0.35rem;
-  }
+
+    .filter-buttons {
+
+        gap: 0.35rem;
+
+    }
+
+
+    .set-filter-buttons {
+
+        gap: 0.35rem;
+
+    }
+
+
+    .quantity-controls {
+
+        gap: 8px;
+
+    }
+
+
+    .quantity-button {
+
+        width: 38px;
+
+        height: 35px;
+
+    }
+
 }
